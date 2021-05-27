@@ -23,8 +23,6 @@ import {AppRoutingModule} from './app.routes'
   imports: [
     BrowserModule, 
     AppRoutingModule
-
-
   ],
   providers: [],
   bootstrap: [AppComponent]
